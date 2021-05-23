@@ -4,7 +4,7 @@
 
 ***
 
-🍃 Demo For You - [Open Here](https://avipatilpro.github.io/cc_gen/)
+🍃 Demo For You - [Open Here](https://avipatilpro.github.io/CC_Gen/)
 
 ---
 
